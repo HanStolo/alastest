@@ -27,7 +27,7 @@ Choose a database technology of your choosing, and load the tweets into it on st
 
 Given the time constraints, something like an embedded SQL database like [H2 or HSQL](https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#features.sql.datasource.embedded) would suffice. 
 
-But feel free to try one of the storage technologies we use at Brandwatch: 
+But feel free to try one of the storage technologies we use: 
 - PostgresSQL 
 - MongoDB 
 
