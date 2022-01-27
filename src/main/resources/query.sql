@@ -1,1 +1,0 @@
-INSERT INTO tweets (id, bw_timestamp, content) VALUES ("1", 1, "1")
